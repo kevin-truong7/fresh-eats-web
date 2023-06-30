@@ -10,6 +10,7 @@ This React web app provides a platform for users to discover restaurants that ar
 - Horizontal and vertical scroll features to make navigating easier
 - Implemented navigation bar to access different pages of web application
 - Website deployed and hosted on Netlify
+- Uses Tailwind CSS for extra scrolling functionality
 
 ## Website
 https://fresh-eats.netlify.app/
