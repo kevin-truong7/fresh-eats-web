@@ -22,5 +22,5 @@ https://fresh-eats.netlify.app/
 <img src="https://github.com/kevin-truong7/fresh-eats-web/blob/main/src/images/few_main.png" width="400" />
 <img src="https://github.com/kevin-truong7/fresh-eats-web/blob/main/src/images/few_login.png" width="400" />
 <img src="https://github.com/kevin-truong7/fresh-eats-web/blob/main/src/images/few_signup.png" width="400" />
-<img src="https://github.com/kevin-truong7/fresh-eats-web/blob/main/src/images/few_menu.png" width="250" />
 </p>
+<img src="https://github.com/kevin-truong7/fresh-eats-web/blob/main/src/images/few_menu.png" width="250" />
