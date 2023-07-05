@@ -4,10 +4,10 @@ This React web app provides a platform for users to discover restaurants that ar
 
 ## Features
 
-- Designed with React
+- Designed with React.js
 - Presents restaurants in categories using mock data and mapping
 - Implemented resizing features to accomodate both web and mobile viewing
-- Horizontal and vertical scroll features to make navigating easier
+- Horizontal scrolls, vertical scroll, and event listeners to make navigating easier
 - Implemented navigation bar to access different pages of web application
 - Website deployed and hosted on Netlify
 - Uses Tailwind CSS for extra scrolling functionality
